@@ -1,0 +1,26 @@
+.container {
+    margin: 40px auto;
+    max-width:1000px;
+    text-align:center;
+}
+
+.container h1 {
+    margin-bottom: 50px;
+    font-family: Roboto;
+}
+
+.branches {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container button {
+    width: 200pt;
+    height: 50pt;
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+.result {
+    margin-top: 20pt;
+}
